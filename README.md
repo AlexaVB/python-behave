@@ -2,6 +2,7 @@ Behave
 ==================
 
 You need Firefox installed https://www.mozilla.org/en-GB/firefox/new/
+
 Do you need to upgrade Geckodriver?
 
     brew upgrade geckodriver
